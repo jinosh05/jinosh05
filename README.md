@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: The day I quit learning is the day I will stop breathing
 - ⚡ Fun fact: I love to programming,but good at racing
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jinosh)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinosh05&count_private=true&exclude_repo=)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinosh05)](https://github.com/anuraghazra/github-readme-stats)
