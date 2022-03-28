@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jinosh)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinosh05&count_private=true&exclude_repo=)](https://github.com/anuraghazra/github-readme-stats)
+[![Jinosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinosh05&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinosh05)](https://github.com/anuraghazra/github-readme-stats)
 
