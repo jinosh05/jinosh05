@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: The day I quit learning is the day I will stop breathing
 - ⚡ Fun fact: I love to programming,but good at racing
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jinosh)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jinosh) <a href="https://www.linkedin.com/in/jinosh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35></a> <a href="https://www.instagram.com/jinoshprabhuraj/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35></a> 
 
 [![Jinosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinosh05&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
