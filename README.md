@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 😄 Pronouns: The day I quit learning is the day I will stop breathing
 - ⚡ Fun fact: I love to programming,but good at racing
+- 📫 How to reach me: jinosh05@gmail.com
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jinosh) <a href="https://www.linkedin.com/in/jinosh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35></a> <a href="https://www.instagram.com/jinoshprabhuraj/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35></a> 
 
