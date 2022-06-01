@@ -12,7 +12,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything
 - 😄 Pronouns: The day I quit learning is the day I will stop breathing
-- ⚡ Fun fact: I love to programming,but good at racing
+- ⚡ Fun fact: I love to programming,but good at drawing
 - 📫 How to reach me: jinosh05@gmail.com
 
  <a href="https://www.linkedin.com/in/jinosh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35></a> <a href="https://www.instagram.com/jinoshprabhuraj/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35></a> 
