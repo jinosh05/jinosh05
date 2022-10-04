@@ -3,7 +3,7 @@
 
 
 
-## 💫I'm a Flutter Developer!
+## 💫 I'm a Flutter Developer!
 
 - 🔭 Love Flutter and working on it
 - 🌱 I’m currently learning Flutter
