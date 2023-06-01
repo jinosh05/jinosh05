@@ -2,7 +2,6 @@
 ### Hi there, I'm Jinosh👋 
 
 
-
 ## 💫 I'm a Flutter Developer!
 
 - 🔭 Love Flutter and working on it
@@ -30,9 +29,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinosh05)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💰You can help me by Donating
+## 💰You can help me by Donating 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jinosh)
+<a href="https://www.buymeacoffee.com/jinosh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <div align="center">
 
