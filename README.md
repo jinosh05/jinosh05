@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with custom ROM development
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything
 - 😄 Pronouns: The day I quit learning is the day I will stop breathing
 - ⚡ Fun fact: I love to programming,but good at drawing
