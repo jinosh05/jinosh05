@@ -35,6 +35,14 @@
 
 <div align="center">
 
+
+## Packages Used
+
+- [Photofilters Package](https://pub.dev/packages/photofilters)
+- [Speech_to_text Package](https://pub.dev/packages/speech_to_text)
+- [Sizer Pro Package](https://pub.dev/packages/sizer_pro)
+- [Fancy_bottom_navigation_plus Package](https://pub.dev/packages/fancy_bottom_navigation_plus)
+
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
