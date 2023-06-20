@@ -33,7 +33,6 @@
 
 <a href="https://www.buymeacoffee.com/jinosh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<div align="center">
 
 
 ## Packages Used
@@ -42,6 +41,8 @@
 - [Speech_to_text Package](https://pub.dev/packages/speech_to_text)
 - [Sizer Pro Package](https://pub.dev/packages/sizer_pro)
 - [Fancy_bottom_navigation_plus Package](https://pub.dev/packages/fancy_bottom_navigation_plus)
+
+<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
