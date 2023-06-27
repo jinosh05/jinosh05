@@ -7,10 +7,10 @@
 - 🔭 Love Flutter and working on it
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with other developers
-- 🤔 I’m looking for help with custom ROM development
+- 🤔 I’m looking for help with Flutter and custom ROM development 
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything
-- 😄 Pronouns: The day I quit learning is the day I will stop breathing
+- 😄 Pronouns: The day I quit learning is the day I will stop breathing.
 - ⚡ Fun fact: I love to programming,but good at drawing
 - 📫 How to reach me: jinosh05@gmail.com
 
