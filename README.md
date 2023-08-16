@@ -1,7 +1,6 @@
 
 ### Hi there, I'm Jinosh👋 
 
-
 ## 💫 I'm a Flutter Developer!
 
 - 🔭 Love Flutter and working on it
