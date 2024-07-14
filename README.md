@@ -1,5 +1,9 @@
+<h1 align="center">  Hi there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Jinosh👋</h1>
 
-### Hi there, I'm Jinosh👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jinosh05&label=Views&color=blue&style=plastic&style=for-the-badge" alt="jinosh05" /> </p>
 
 ## 💫 I'm a Flutter Developer!
 
