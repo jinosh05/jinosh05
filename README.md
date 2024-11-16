@@ -44,6 +44,7 @@
 
 - [Photofilters Package](https://pub.dev/packages/photofilters)
 - [Speech_to_text Package](https://pub.dev/packages/speech_to_text)
+- [Unique Identifier 3 Package](https://pub.dev/packages/unique_identifier_3)
 - [Font_awesome_flutter Package](https://pub.dev/packages/font_awesome_flutter)
 - [Sizer Pro Package](https://pub.dev/packages/sizer_pro)
 - [Fancy_bottom_navigation_plus Package](https://pub.dev/packages/fancy_bottom_navigation_plus)
