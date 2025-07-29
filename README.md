@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with Flutter and custom ROM development 
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects and work on AI
 - 💬 Ask me about anything
 - 😄 Pronouns: The day I quit learning is the day I will stop breathing.
 - ⚡ Fun fact: I love to programming,but good at drawing
